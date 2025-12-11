@@ -1,3 +1,14 @@
+#header {
+    display: block !important;      /* cancel flex centering */
+    height: auto !important;        /* remove full viewport height */
+    padding-top: 20px;              /* optional spacing from top */
+}
+
+#header .container {
+    display: block !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+}
 /* ------ venobox.css --------*/
 .vbox-overlay *, .vbox-overlay *:before, .vbox-overlay *:after{
     -webkit-backface-visibility: hidden;
