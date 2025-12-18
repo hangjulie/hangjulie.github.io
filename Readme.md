@@ -1,6 +1,8 @@
 # Personal Portfolio 🔥
 > https://hangjulie.github.io/
 
+#### ANYTHING BELOW THIS IS UNDER CONSTRUCTION
+
 :star: Star me on GitHub — it helps!
 
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
